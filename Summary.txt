@@ -1,0 +1,6 @@
+Supplementary material for the AIM 2026 paper:
+"Predictor Structure and Closed-Loop Stability in Variable Admittance Control for Dynamic Contact Interaction"
+
+This material includes demonstration videos and representative images of the experimental setup and Koopman-based paragraph-writing experiment.
+
+Additional experimental data are available from the authors upon reasonable request.
